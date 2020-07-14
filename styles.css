@@ -1,0 +1,43 @@
+body {
+	background: black;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 80px;
+	font-family: 'Bangers', cursive;
+	font-size: 80px;
+}
+
+#outer {
+	border: 2px solid white;
+	padding: 40px;
+	width: 590px;
+	height: 100%;
+	border-radius: 15px;
+	margin: auto;
+	position: relative;
+	top: 150px;
+}
+
+#inner {
+	border: 2px solid white;
+	padding: 30px;
+	width: 390px;
+	height: 55%;
+	border-radius: 15px;
+	margin: auto;
+}
+
+#time {
+	color: white;
+	margin: auto;
+	font-family: 'Space Mono', monospace;
+	font-size: 80px;
+}
+
+.newColor1 {
+	color: black;
+}

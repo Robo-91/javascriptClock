@@ -1,0 +1,1 @@
+This project was created for learning purposes only. It is a very simple web page that extracts information from the date object to display the time.
