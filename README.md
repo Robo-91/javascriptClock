@@ -33,12 +33,9 @@ To-do list:
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-## Contributors
-
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+> Link to the demo page will go here
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
