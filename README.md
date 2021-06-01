@@ -22,14 +22,12 @@ To-do list:
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+Ensure that you have a Text Editor Installed (Visual Studio Code, Sublime Text Editor, etc).
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+In the terminal(Mac) or command prompt(Windows), use the following command:
+> git clone https://github.com/Robo-91/javascriptClock.git
 
-- All the `code` required to get started
-- Images of what it should look like
+If you are using windows, ensure that you have git bash installed.
 
 ## Usage
 
